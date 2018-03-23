@@ -20,3 +20,7 @@
         * Use `webmention.middleware.WebMentionMiddleware` in `MIDDLEWARE_CLASSES` for older projects
     * Decorating a specific view with `webmention.middleware.include_webmention_information`
 * View webmention responses in the Django admin tool and mark them as reviewed as needed
+
+## What to Expect
+
+???
